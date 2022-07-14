@@ -1,4 +1,4 @@
-module github.com/incu6us/goimports-reviser/v2
+module github.com/mszostok/goimports-reviser/v2
 
 go 1.18
 

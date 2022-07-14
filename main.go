@@ -10,8 +10,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/incu6us/goimports-reviser/v2/helper"
-	"github.com/incu6us/goimports-reviser/v2/reviser"
+	"github.com/mszostok/goimports-reviser/v2/helper"
+	"github.com/mszostok/goimports-reviser/v2/reviser"
 )
 
 const (

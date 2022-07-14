@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/incu6us/goimports-reviser/v2/reviser"
+	"github.com/mszostok/goimports-reviser/v2/reviser"
 )
 
 func TestDetermineProjectName(t *testing.T) {
